@@ -36,3 +36,8 @@ body {
   width: 120px;
   margin: 0 auto;
 }
+
+.burst {
+  background: url(/img/bag-burst.png) center no-repeat;
+  background-size: 80%;
+}
