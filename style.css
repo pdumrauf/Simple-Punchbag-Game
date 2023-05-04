@@ -20,7 +20,6 @@ body {
   width: 300px;
   border: 1px solid black;
   height: 30px;
-  background-color: crimson;
 }
 
 .health-bar div {
