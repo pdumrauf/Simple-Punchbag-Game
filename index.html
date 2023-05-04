@@ -20,7 +20,7 @@
     </div>
 
     <div class="controls">
-      <button @click="punch">Punch</button>
+      <button @click="punch" v-show="!ended">Punch</button>
       <button @click="restart">Restart</button>
     </div>
 
